@@ -3,7 +3,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF7A71&center=true&repeat=false&width=600&height=50&lines=Hey%2C+I'm+rgdan" alt="Typing SVG" /></a>
 </div>
 
-## readme.md
+## README.md
 
 I'm a computer science student who likes building things from the ground up. I care about clean code and like to learn new tools.
 
@@ -17,7 +17,7 @@ const me = {
 };
 ```
 
-## Off_screen.md
+## OFF_SCREEN.md
 
 When I'm not doing engineering, I love exploring music and art. These are my absolute favorites:
 
@@ -40,7 +40,7 @@ When I'm not doing engineering, I love exploring music and art. These are my abs
 </div>
 <br/>
 
-## Statistics.md
+## STATISTICS.md
 
 <div align="center">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rgdan&theme=react-dark&hide_border=true&bg_color=0d1117"/>
