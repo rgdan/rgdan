@@ -38,12 +38,6 @@ const me = {
 ## Statistics.md
 
 <div align="center">
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=rgdan&column=5&theme=radical&margin-w=15&margin-h=15&no-bg=true"/>
-    <br/>
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rgdan&theme=react-dark&hide_border=true&bg_color=0d1117"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgdan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=rgdan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="165"/>
-    <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgdan&theme=radical&hide_border=true&background=0D1117"/>
 </div>
