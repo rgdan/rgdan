@@ -5,7 +5,7 @@
 
 ## readme.md
 
-I'm a computer science student who likes building things from the ground up. I care about clean code, learning new tools.
+I'm a computer science student who likes building things from the ground up. I care about clean code and like to learn new tools.
 
 
 ```javascript
@@ -29,11 +29,26 @@ const me = {
 
 ## Off_screen.md
 
+When I'm not doing engineering, I love exploring music and art. These are my absolute favorites:
+
 <div align="center">
-    <img src="https://img.shields.io/badge/-Music-A78BFA?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-Art-F72585?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-Volunteering-FFD60A?style=for-the-badge"/>
+
+**Music**
+ 
+<a href="https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX">
+    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02f12a8a7e0b2cbe16d2bef4dc" width="220" alt="Morrison Hotel by The Doors"/>
+</a>
+<br/>
+<sub><i>Morrison Hotel</i> — The Doors</sub>
+<br/><br/>
+ 
+**Art**
+ 
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Kahler_-_My_Wife%27s_Lovers.jpg" width="400" alt="My Wife's Lovers by Carl Kahler"/>
+<br/>
+<sub><a href="https://en.wikipedia.org/wiki/My_Wife%27s_Lovers"><i>My Wife's Lovers</i></a> — Carl Kahler</sub>
 </div>
+<br/>
 
 ## Statistics.md
 
